@@ -7,7 +7,7 @@
 #
 Name     : perl-Throwable-SugarFactory
 Version  : 0.213360
-Release  : 4
+Release  : 5
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MITHALDU/Throwable-SugarFactory-0.213360.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MITHALDU/Throwable-SugarFactory-0.213360.tar.gz
 Summary  : 'build a library of syntax-sugared Throwable-based exceptions'
